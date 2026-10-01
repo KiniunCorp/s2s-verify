@@ -57,3 +57,7 @@ The CLI works and is documented. The GitHub Action is not built yet.
 
 s2s-verify came out of s2s v1 (a private repo, formerly Bramo), which followed
 [spec-to-ship](https://github.com/guschiriboga/spec-to-ship), s2s v0.
+
+## History
+
+This tool started as `bramo-verify`. Read the [post-mortem](docs/post-mortem.md) that explains why the larger Bramo platform stopped and only the verifier survived.
